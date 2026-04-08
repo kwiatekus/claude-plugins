@@ -1,0 +1,17 @@
+{
+  "name": "kyma-claude-plugins",
+  "owner": {
+    "name": "Kyma Team"
+  },
+  "plugins": [
+    {
+      "name": "doc-issue",
+      "description": "Write user documentation for a given GitHub issue URL, following Kyma content guidelines.",
+      "source": {
+        "source": "github",
+        "repo": "kwiatekus/doc-issue-plugin"
+      },
+      "version": "0.0.1"
+    }
+  ]
+}
