@@ -13,7 +13,7 @@ Writes user documentation for a given GitHub issue URL, following Kyma content g
 **1. Add this marketplace to Claude Code:**
 
 ```
-/plugin marketplace add kyma-project/claude-plugins
+/plugin marketplace add kwiatekus/claude-plugins
 ```
 
 **2. Install the plugin you want:**
